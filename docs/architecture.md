@@ -1,4 +1,4 @@
-# Arquitectura — LinkAidly (visión de alto nivel)
+# 🏗️ Arquitectura — LinkAidly (resumen público)
 
 > **Estado:** MVP en producción  
 > **Última actualización:** 2025‑09‑06  
@@ -96,7 +96,7 @@ Más detalle en `docs/security.md`.
 - Verificación y caducidad de campañas.
 
 **Fase 3 — Servicios**  
-- Migración JSON → **BBDD gestionada** (p. ej., Supabase en UE).  
+- Migración JSON → **base de datos gestionada** en la UE (ejemplo: proveedor cloud con auditoría).  
 - Backoffice ligero para revisión de campañas/cápsulas.
 
 **Fase 4 — Comunidad**  
@@ -106,14 +106,8 @@ Más detalle en `docs/security.md`.
 
 ## 9) Decisiones y referencias
 
-Decisiones técnicas documentadas como ADR (Architecture Decision Records):
-
-- **Next.js + Vercel** por velocidad de entrega y previews → ver [ADR‑0001](adr/ADR-0001-frontend-framework.md)  
-- **Tailwind v4** con tokens en CSS → ver [ADR‑0002](adr/ADR-0002-styling.md)  
-- **Documentación técnica** con TypeDoc + TSDoc → ver [ADR‑0003](adr/ADR-0003-docs-api.md)  
-- **Analítica ética** con Plausible → ver [ADR‑0004](adr/ADR-0004-analytics.md)  
-- **Allowlist** de dominios externos (donaciones/acciones) → ver [ADR‑0005](adr/ADR-0005-allowlist.md)  
-- **Seguridad de base** (CSP/HTTPS/validación) → ver [ADR‑0006](adr/ADR-0006-security-baseline.md)
+Las decisiones técnicas clave se documentan en registros internos (ADRs) en el repositorio privado de LinkAidly.  
+Ejemplos: elección de framework, sistema de estilos, documentación técnica, analítica ética, allowlist de dominios y seguridad de base.
 
 ---
 

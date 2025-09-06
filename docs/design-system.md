@@ -57,6 +57,10 @@ Se apoya en una paleta de colores inspirada en la naturaleza y en tipografías a
   - **Monocromo claro** (sobre fondo oscuro).  
 - El logo no debe deformarse, inclinarse ni cambiar de color arbitrariamente.  
 
+### Recursos descargables
+
+- Se debe usar siempre las versiones originales para asegurar calidad y coherencia.
+
 ---
 
 ## 6) Accesibilidad
@@ -64,6 +68,7 @@ Se apoya en una paleta de colores inspirada en la naturaleza y en tipografías a
 - Contraste mínimo AA (WCAG 2.1).  
 - Tamaño de fuente mínimo: 16px en párrafos.  
 - Elementos interactivos con foco visible y área clicable adecuada.  
+- Siempre que sea posible, se buscará cumplir nivel AAA en contraste de texto y elementos clave.
 
 ---
 

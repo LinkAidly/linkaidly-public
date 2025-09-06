@@ -7,7 +7,7 @@
 
 ## 1) Responsable
 **Promotor del proyecto:** LinkAidly (en constitución como asociación sin ánimo de lucro).  
-**Correo de contacto (privacidad):** `privacidad@linkaidly.org`  
+**Correo de privacidad:** `privacidad@linkaidly.org`  
 **Correo general:** `contact@linkaidly.org`
 
 ---

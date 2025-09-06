@@ -26,7 +26,7 @@ Algunas formas de implicarse hoy:
   - Ayudando a contar las causas de forma clara y cercana.  
 
 - **Colaboradores técnicos**  
-  - Desarrollo frontend (Next.js, React, TypeScript).  
+  - Desarrollo web moderno (frontend y accesibilidad).  
   - QA y pruebas de accesibilidad.  
   - Revisión de seguridad y mejoras de CI/CD.  
 
@@ -39,7 +39,7 @@ Algunas formas de implicarse hoy:
 ## 2) Qué ofrecemos
 
 - Espacio de visibilidad en la plataforma.  
-- Reconocimiento de autoría en aportaciones creativas o técnicas.  
+- Reconocimiento de autoría en aportaciones creativas o técnicas (siempre que sea posible en la web o materiales vinculados).  
 - Coherencia con principios éticos, de respeto y transparencia.  
 
 ---
@@ -57,7 +57,7 @@ Algunas formas de implicarse hoy:
 
 - 📩 **Email:** contact@linkaidly.org  
 - 🌐 **Web:** [linkaidly.org](https://linkaidly.org)  
-- 📰 **Newsletter:** suscripción en la web para recibir novedades.  
+- 📰 **Newsletter:** [suscripción en la web](https://linkaidly.org#newsletter) para recibir novedades.  
 
 ---
 

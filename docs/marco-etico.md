@@ -1,6 +1,3 @@
-
-
-
 # 🌱 Marco ético y legal — LinkAidly
 
 > **Estado:** vigente desde 2025‑09‑06  
@@ -21,7 +18,7 @@ Este marco ético asegura que el proyecto se construye respetando la dignidad, l
 - **Transparencia:** la información debe ser clara, verificable y con trazabilidad.  
 - **Consentimiento informado:** solo se publican contenidos con permiso explícito de las personas implicadas.  
 - **No daño:** evitamos estereotipos, discriminación o revictimización.  
-- **Accesibilidad:** contenidos comprensibles, lenguaje inclusivo y mínimo AA (WCAG).  
+- **Accesibilidad:** contenidos comprensibles, lenguaje inclusivo y mínimo AA (WCAG), aspirando a AAA cuando sea posible.  
 - **Privacidad:** no recopilamos datos personales innecesarios; el MVP funciona sin cuentas ni cookies de seguimiento.  
 
 ---
@@ -49,7 +46,7 @@ Este marco ético asegura que el proyecto se construye respetando la dignidad, l
 
 ## 5) Gobernanza y denuncias
 
-- Existe un **pequeño comité ético** interno que revisa contenidos y campañas.  
+- Existe un **pequeño comité ético ligero y voluntario** que revisa contenidos y campañas.  
 - Cualquier persona puede reportar material inadecuado a través de: **contact@linkaidly.org**.  
 - Los reportes se atienden con rapidez y transparencia.  
 
@@ -64,6 +61,7 @@ Antes de publicar o colaborar en LinkAidly, recuerda:
 - ¿Se evita cualquier estereotipo o discriminación?  
 - ¿Se atribuyen las fuentes correctamente?  
 - ¿Se protege la privacidad de los implicados?  
+- ¿El contenido es comprensible para diferentes públicos (edad, cultura, idioma)?  
 
 ---
 

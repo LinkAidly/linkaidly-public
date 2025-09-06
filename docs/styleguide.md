@@ -24,8 +24,8 @@ Esta guía define cómo escribir documentación en **LinkAidly** para mantener c
 ## 🔗 Enlaces y referencias
 - Usar enlaces relativos dentro del repo (`[ver ADR](adr/ADR-0001-frontend-framework.md)`).
 - Para enlaces externos, incluir siempre el protocolo completo (`https://`).
-- Referenciar la documentación de API autogenerada como:  
-  “📚 Ver la [API del frontend](../web/docs/api/) para detalles técnicos.”
+- Los ADRs (registros de decisiones técnicas) se mantienen en el repositorio privado de LinkAidly.
+- La API técnica se documenta en repositorios internos, no en este repositorio público.
 
 ---
 
@@ -59,7 +59,7 @@ Esta guía define cómo escribir documentación en **LinkAidly** para mantener c
 3. ¿El tono es claro, inclusivo y profesional?
 4. ¿Los enlaces funcionan (relativos o externos)?
 5. ¿Los ejemplos están formateados correctamente?
-6. ¿Si aplica, se actualizó el índice en `docs/README.md` o `docs/adr/README.md`?
+6. ¿Si aplica, se actualizó el índice en docs/README.md?
 
 ---
 

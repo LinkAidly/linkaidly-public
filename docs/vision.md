@@ -49,9 +49,9 @@ Se construye sobre tres pilares:
 
 - **Próximas fases:**  
   - Ampliar catálogo de misiones y cápsulas culturales.  
-  - Migrar de JSON a base de datos gestionada con auditoría.  
-  - Implementar backoffice ligero para revisión de campañas.  
-  - Fomentar comunidad con aportes moderados.
+  - Evolucionar de datos fijos (JSON) a un sistema de base de datos gestionada, con garantías de transparencia.  
+  - Crear una herramienta sencilla de revisión para asegurar la fiabilidad de las campañas.  
+  - Impulsar comunidad y participación, siempre con moderación y cuidado ético.
 
 ---
 
