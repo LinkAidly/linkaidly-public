@@ -1,124 +1,104 @@
 # 🛡️ Política de Privacidad — LinkAidly (MVP)
 
-**Versión:** 1.0 · **Fecha:** 2025‑08‑19  
-**Ámbito:** Esta política aplica a la web *linkaidly.org* y a sus subdominios usados para el MVP (p. ej., `beta.linkaidly.org`, `dev.linkaidly.org`).
-
-> Resumen rápido: en el MVP **no creamos cuentas** ni pedimos datos personales salvo que **voluntariamente** nos dejes tu correo para avisarte del lanzamiento o de novedades. Usamos **analítica ética sin cookies** para entender, de forma agregada, cómo se usa la web.
+**Versión:** 1.0 · **Fecha:** 2025‑09‑06  
+**Ámbito:** Esta política aplica a la web *linkaidly.org* y a sus subdominios de prueba (p. ej., `beta.linkaidly.org`, `dev.linkaidly.org`).
 
 ---
 
-## 1️⃣ Quién es el responsable del tratamiento
-**Responsable:** *Asociación/Promotor del proyecto LinkAidly* (en constitución)  
+## 1) Responsable
+**Promotor del proyecto:** LinkAidly (en constitución como asociación sin ánimo de lucro).  
 **Correo de contacto (privacidad):** `privacidad@linkaidly.org`  
-**Contacto general:** `contact@linkaidly.org`  
-**Dirección postal:** (añadir si aplica)
-
-> Cuando la entidad esté formalmente constituida, actualizaremos esta sección con los datos registrales completos.
+**Correo general:** `contact@linkaidly.org`
 
 ---
 
-## 2️⃣ Datos que tratamos en el MVP
-En esta fase inicial procesamos **solo**:
+## 2) Qué datos tratamos en el MVP
+En esta fase inicial procesamos únicamente:
 
-1. **Correo electrónico (opcional)**  
-   - *Origen:* formulario “Avísame” (opt‑in).  
-   - *Uso:* enviar 1) aviso de lanzamiento, 2) novedades relevantes del proyecto.  
-   - *Baja:* en **1 clic** desde cualquier correo o escribiendo a `privacidad@linkaidly.org`.
+- **Correo electrónico (opcional):**  
+  Si te suscribes en el formulario “Avísame”, usaremos tu correo solo para enviarte:  
+  1. Aviso del lanzamiento.  
+  2. Novedades relevantes del proyecto.  
+  Podrás darte de baja en cualquier momento con 1 clic o escribiéndonos.
 
-2. **Analítica de uso *cookieless***  
-   - Medición agregada (páginas vistas, eventos anónimos como *mission_started*, *donate_click*).  
-   - **Sin** cookies, fingerprinting ni identificación individual.
+- **Analítica de uso sin cookies:**  
+  Medimos visitas y clics de forma agregada para mejorar la web.  
+  No usamos cookies, fingerprinting ni identificamos personas.
 
-> No pedimos permisos de ubicación, cámara o micrófono. No mostramos anuncios personalizados. No realizamos perfiles.
-
----
-
-## 3️⃣ Finalidades y bases jurídicas
-| Finalidad | Detalle | Base jurídica |
-|---|---|---|
-| Enviarte comunicaciones sobre el proyecto | Aviso del lanzamiento y actualizaciones (poca frecuencia) | **Consentimiento** (art. 6.1.a RGPD) |
-| Medir y mejorar el servicio | Métricas agregadas para saber qué funciona | **Interés legítimo** (art. 6.1.f RGPD) con impacto mínimo (sin cookies / sin PII) |
-
-Puedes **retirar tu consentimiento** en cualquier momento (afecta a futuro).
+👉 No pedimos ubicación, cámara, micrófono ni mostramos anuncios personalizados.
 
 ---
 
-## 4️⃣ Plazos de conservación
-- **Emails:** hasta **12 meses** desde el último contacto o hasta que te des de baja.  
-- **Analítica agregada:** datos no personales con retenciones técnicas normales (logs rotan periódicamente).
+## 3) Finalidad y base legal
+- **Comunicaciones sobre el proyecto:** con tu consentimiento.  
+- **Medir y mejorar el servicio:** por interés legítimo, con impacto mínimo y sin datos personales.
+
+Puedes retirar tu consentimiento en cualquier momento (aplica a futuro).
 
 ---
 
-## 5️⃣ Encargados de tratamiento y proveedores
-Para operar el servicio utilizamos proveedores que actúan como **encargados** o **subencargados** de tratamiento. Todos ofrecen garantías de cumplimiento y firmamos (o aceptamos) los contratos de encargo/DPA correspondientes.
-
-- **Vercel, Inc.** – alojamiento de la web/app.  
-- **Cloudflare, Inc.** – DNS, CDN y protección frente a abusos.  
-- **(Opcional) Plausible Analytics** – analítica sin cookies, preferiblemente alojamiento en la UE.  
-- **(Opcional) Formspree / Resend / equivalente** – gestión de formularios o envíos de correo transaccional.
-
-> En el repositorio interno mantenemos un **registro de actividades** y una lista actualizada de proveedores. Si añadimos nuevos, actualizaremos esta política.
+## 4) Conservación
+- **Correos electrónicos:** hasta 12 meses desde el último contacto o hasta que te des de baja.  
+- **Analítica:** solo datos agregados y anónimos, sin identificación personal.
 
 ---
 
-## 6️⃣ Transferencias internacionales
-Algunos proveedores pueden tratar datos fuera del EEE. En tal caso, garantizamos un nivel de protección adecuado mediante:
-- **Cláusulas Contractuales Tipo (SCC)** de la Comisión Europea y medidas adicionales de seguridad, o
-- Prestadores con **infraestructura/almacenamiento en la UE** cuando esté disponible.
+## 5) Proveedores de servicio
+Para operar la plataforma usamos servicios externos que cumplen con la normativa europea:
+
+- **Vercel:** alojamiento de la web.  
+- **Cloudflare:** DNS, CDN y protección.  
+- **Plausible Analytics:** analítica sin cookies (servidores en la UE).  
+- **Formspree / Resend (o equivalentes):** gestión de formularios y correos transaccionales.
+
+Cuando un proveedor trata datos fuera de la UE, aplicamos garantías reconocidas por la Comisión Europea para asegurar su protección.
 
 ---
 
-## 7️⃣ Tus derechos
+## 6) Tus derechos
 Puedes ejercer en cualquier momento:
-- **Acceso** a tus datos.  
-- **Rectificación** de datos inexactos.  
-- **Supresión** (“derecho al olvido”).  
-- **Limitación** u **oposición** al tratamiento.  
-- **Portabilidad** (si procede).
+- Acceder a tus datos.  
+- Rectificarlos si son inexactos.  
+- Eliminarlos.  
+- Oponerte a su tratamiento.  
+- Limitar su uso.  
+- Solicitar su portabilidad (cuando sea aplicable).
 
-Para ejercerlos: escribe a `privacidad@linkaidly.org` desde el correo que registraste.  
-Si no respondemos en el plazo legal o no quedas conforme, puedes reclamar ante la autoridad de control (en España, **AEPD**).
-
----
-
-## 8️⃣ Seguridad
-- [x] Cifrado **HTTPS** extremo a extremo.  
-- [x] Configuración de seguridad reforzada (CSP, HSTS, encabezados de seguridad).  
-- [x] Minimización de datos (no pedimos más de lo necesario).  
-- [x] Control de acceso y doble factor en herramientas críticas.  
-- [ ] Auditorías y pruebas de seguridad periódicas en el ciclo de desarrollo.
+Para ello, escríbenos a `privacidad@linkaidly.org`.  
+Si no respondemos en el plazo legal o no quedas conforme, puedes reclamar ante la **AEPD** en España.
 
 ---
 
-## 9️⃣ Menores
-El servicio está dirigido a público general. Si detectamos un alta de correo de un **menor de 14 años** sin autorización, lo **eliminaremos**.
+## 7) Seguridad
+- ✅ Cifrado HTTPS en toda la web.  
+- ✅ Configuración de seguridad reforzada (CSP, HSTS, encabezados seguros).  
+- ✅ Minimización de datos: solo pedimos lo necesario.  
+- 🔜 Auditorías y pruebas de seguridad periódicas.
 
 ---
 
-## 🔟 Cookies
-En el MVP **no usamos cookies** para analítica ni publicidad. Si en el futuro incorporamos funcionalidades que requieran cookies **opcionales**, te pediremos **consentimiento** previo e informado.
+## 8) Menores
+El servicio está dirigido a público general.  
+Si detectamos un alta de correo de un menor de 14 años sin autorización, lo eliminaremos.
 
 ---
 
-## 1️⃣1️⃣ Cambios en esta política
-Actualizaremos esta política cuando cambien los tratamientos o la normativa. Indicaremos la **fecha de versión** y, si el cambio es relevante, te lo comunicaremos por correo (si estás suscrito/a).
+## 9) Cookies
+En el MVP no usamos cookies para analítica ni publicidad.  
+Si en el futuro añadimos funciones que requieran cookies opcionales, pediremos tu consentimiento informado.
 
 ---
 
-## 1️⃣2️⃣ Contacto
-- **Privacidad y datos:** `privacidad@linkaidly.org`  
-- **Contacto general:** `contact@linkaidly.org`  
-- **Seguridad (vulnerabilidades):** disponible en `/.well-known/security.txt`
+## 10) Cambios en esta política
+Actualizaremos esta política si cambian los tratamientos o la normativa.  
+Indicaremos siempre la fecha de versión y, si el cambio es relevante, lo comunicaremos por correo a quienes estén suscritos.
 
 ---
 
-## 📚 Referencias externas
-- [RGPD — Reglamento General de Protección de Datos](https://gdpr-info.eu/)
-- [LOPDGDD — Agencia Española de Protección de Datos](https://www.aepd.es/)
-- [Plausible Analytics — privacidad](https://plausible.io/data-policy)
-- [Next.js Privacy docs](https://nextjs.org/docs/app/building-your-application/configuring/privacy)
+## 11) Contacto 
+- **Contacto:** `contact@linkaidly.org`  
 
 ---
 
-### Texto corto para el formulario “Avísame” (para usar en la web)
-> *Usaremos tu correo **solo** para avisarte del lanzamiento y novedades del proyecto. Podrás darte de baja en cualquier momento con 1 clic. No compartimos tu correo con terceros.*
+### Texto corto para el formulario “Avísame”
+> *Usaremos tu correo solo para avisarte del lanzamiento y novedades del proyecto. Podrás darte de baja en cualquier momento con 1 clic. No compartimos tu correo con terceros.*

@@ -53,21 +53,6 @@ Esta guía define cómo escribir documentación en **LinkAidly** para mantener c
 
 ---
 
-## 🧪 Estilo de tests
-- **Ubicación**: los tests deben ir junto al archivo (`*.test.ts` o `*.test.tsx`) o en `/src/__tests__/` para integración.
-- **Nomenclatura**: usar sufijo `.test.ts[x]` siempre en minúsculas.
-- **Framework**: se utiliza Vitest con React Testing Library.
-- **Sintaxis**:
-  - Usar `describe`, `test` y `expect` (no `it`).
-  - Preferir pruebas de comportamiento visibles para el usuario.
-- **Matchers**: se extienden con `@testing-library/jest-dom`.
-- **Buenas prácticas**:
-  - Evitar snapshots extensos, preferir asserts específicos.
-  - Nombrar los tests en español claro: `"muestra saludo"`, `"renderiza ActionCard con título"`.
-  - Cada componente UI debe tener al menos un test de render básico.
-
----
-
 ## ✅ Checklist antes de commitear docs
 1. ¿El documento tiene título y descripción inicial?
 2. ¿La estructura es clara (secciones, listas)?
