@@ -1,5 +1,4 @@
-[![CI](https://github.com/LinkAidly/linkaidly/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-[![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen.svg)](../../network/updates)
+
 ![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
 # 🌿 LinkAidly — Documentación pública
@@ -18,6 +17,20 @@ Nos regimos por principios de transparencia, accesibilidad, diversidad e inclusi
 
 ## 📂 Qué encontrarás en este repo
 Aquí se recopilan los documentos públicos del proyecto: visión, marco ético, guías, acuerdos, presentaciones y otros recursos que reflejan nuestro compromiso y metodología.
+
+---
+
+## 📑 Índice de documentos principales
+- [Visión](./docs/vision.md)
+- [Marco ético](./docs/marco-etico.md)
+- [Colaboración](./docs/colaboracion.md)
+- [Alianzas](./docs/alianzas.md)
+- [Design system](./docs/design-system.md)
+- [Styleguide](./docs/styleguide.md)
+- [Arquitectura (resumen técnico)](./docs/architecture.md)
+- [Política de privacidad](./docs/privacy.md)
+- [Seguridad](./docs/security.md)
+- [Presentación PDF](./docs/LinkAidly-Presentacion.pdf)
 
 ---
 

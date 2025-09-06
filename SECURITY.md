@@ -1,14 +1,12 @@
+# 🔒 Política de seguridad — LinkAidly (web y documentación)
 
-
-
-# 🔒 Política de seguridad — LinkAidly
-
-La seguridad de nuestras usuarias y usuarios es prioritaria en **LinkAidly**.  
+La seguridad de las personas usuarias y de la información publicada en la web y documentación de **LinkAidly** es prioritaria.  
 Este documento explica cómo reportar vulnerabilidades de manera responsable.
 
 ---
 
 ## 📩 Cómo reportar
+Este canal es solo para reportar problemas relacionados con la web pública o la documentación. Para temas internos de código, usamos repositorios privados.
 - Si detectas una vulnerabilidad, **no abras un issue público** en GitHub.
 - Envía un correo a: **security@linkaidly.org** (si no está disponible, usar `contact@linkaidly.org`).
 - Incluye en tu reporte:

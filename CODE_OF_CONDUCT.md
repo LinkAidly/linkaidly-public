@@ -35,19 +35,21 @@ El equipo de mantenimiento es responsable de:
 
 ## Ámbito de aplicación
 Este Código se aplica:
-- Dentro de los espacios del proyecto (repositorios, issues, PRs).
+- Dentro de todos los repositorios públicos de LinkAidly (código y documentación).
+- En issues, pull requests y discusiones de la comunidad.
 - En eventos oficiales o comunitarios relacionados con LinkAidly.
 
 ---
 
-## Procedimiento de aplicación
+## Cómo actuar si ocurre un problema
 - Si observas un comportamiento inaceptable, repórtalo a **conduct@linkaidly.org**.
-- Todas las quejas serán revisadas e investigadas de manera rápida y justa.
+- Todas las situaciones reportadas serán revisadas e investigadas de manera rápida y justa.
 - El equipo de mantenimiento mantendrá la confidencialidad sobre la persona que reporte.
 
 ---
 
 ## Consecuencias
+Siempre intentaremos una resolución dialogada antes de tomar medidas más restrictivas, salvo en casos graves.
 Quienes incumplan este Código podrán enfrentar consecuencias proporcionales, que incluyen:
 - Advertencia privada o pública.
 - Restricción temporal o permanente de participación.

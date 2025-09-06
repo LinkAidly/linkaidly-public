@@ -44,7 +44,7 @@ Este documento resume cómo protegemos la plataforma y los datos de quienes la u
 
 ## 6) Canales de reporte
 Si detectas un problema de seguridad en LinkAidly, por favor repórtalo de forma responsable:  
-
+- **Contacto:** `contact@linkaidly.org`  
 ---
 
 👉 Estas medidas son proporcionales a un proyecto en fase inicial (MVP) y se reforzarán conforme la plataforma crezca.
