@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" role="img" aria-labelledby="logo-title logo-desc">
+<title id="logo-title">LinkAidly wordmark</title>
+<desc id="logo-desc">LinkAidly wordmark en color arena, con la palabra Link encima y Aidly debajo, en tipografía Montserrat Bold.</desc>
+  <style>
+    @font-face{
+      font-family:'Montserrat';
+      src:url('/fonts/Montserrat-700.woff2') format('woff2');
+      font-weight:700; font-style:normal; font-display:swap;
+    }
+    .wm{font-family:'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight:700; letter-spacing:.5px}
+  </style>
+  <g fill="#E5C07B">
+    <!-- Dos líneas: Link / Aidly -->
+    <text class="wm" x="0" y="72" font-size="72">Link</text>
+    <text class="wm" x="0" y="152" font-size="72">Aidly</text>
+  </g>
+</svg>
