@@ -8,7 +8,7 @@ Este documento explica cómo reportar vulnerabilidades de manera responsable.
 ## 📩 Cómo reportar
 Este canal es solo para reportar problemas relacionados con la web pública o la documentación. Para temas internos de código, usamos repositorios privados.
 - Si detectas una vulnerabilidad, **no abras un issue público** en GitHub.
-- Envía un correo a: **security@linkaidly.org** (si no está disponible, usar `contact@linkaidly.org`).
+- Envía un correo a: **contact@linkaidly.org**.
 - Incluye en tu reporte:
   - Descripción clara de la vulnerabilidad.
   - Pasos para reproducirla.
